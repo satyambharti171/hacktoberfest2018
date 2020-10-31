@@ -28,5 +28,6 @@ int main(){
 	printf("Fitness function :\n st1=%d\t st2=%d\t st3=%d\t st4=%d ",st1f,st2f,st3f,st4f);
 	
 	return 0;
+	//Test
 	
 }
